@@ -1,0 +1,14 @@
+[
+  {
+    "name": "grill-me",
+    "title": "Grill Me",
+    "description": "Stress-test a plan or design through direct questioning.",
+    "path": "skills/grill-me/SKILL.md"
+  },
+  {
+    "name": "to-prd",
+    "title": "To PRD",
+    "description": "Turn working context into a product requirements document.",
+    "path": "skills/to-prd/SKILL.md"
+  }
+]
