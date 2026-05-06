@@ -10,5 +10,11 @@
     "title": "To PRD",
     "description": "Turn working context into a product requirements document.",
     "path": "skills/to-prd/SKILL.md"
+  },
+  {
+    "name": "to-issues",
+    "title": "To Issues",
+    "description": "Break a plan, spec, or PRD into independently-grabbable issues on the project issue tracker using tracer-bullet vertical slices.",
+    "path": "skills/to-issues/SKILL.md"
   }
 ]
