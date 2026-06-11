@@ -33,5 +33,12 @@
       "refactoring.md",
       "tests.md"
     ]
+  },
+  {
+    "name": "teach-me",
+    "title": "Teach Me",
+    "description": "Teach the user a new skill or concept, within this workspace.",
+    "path": "skills/teach-me/SKILL.md",
+    "files": ["SKILL.md", "glossary-format.md", "learning-record-format.md", "mission-format.md","resources-format.md"]
   }
 ]
