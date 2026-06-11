@@ -3,18 +3,35 @@
     "name": "grill-me",
     "title": "Grill Me",
     "description": "Stress-test a plan or design through direct questioning.",
-    "path": "skills/grill-me/SKILL.md"
+    "path": "skills/grill-me/SKILL.md",
+    "files": ["SKILL.md"]
   },
   {
     "name": "to-prd",
     "title": "To PRD",
     "description": "Turn working context into a product requirements document.",
-    "path": "skills/to-prd/SKILL.md"
+    "path": "skills/to-prd/SKILL.md",
+    "files": ["SKILL.md"]
   },
   {
     "name": "to-issues",
     "title": "To Issues",
     "description": "Break a plan, spec, or PRD into independently-grabbable issues on the project issue tracker using tracer-bullet vertical slices.",
-    "path": "skills/to-issues/SKILL.md"
+    "path": "skills/to-issues/SKILL.md",
+    "files": ["SKILL.md"]
+  },
+  {
+    "name": "tdd",
+    "title": "TDD",
+    "description": "Test-driven development with a red-green-refactor loop, integration-style tests, and supporting references on mocking, refactoring, and interface design.",
+    "path": "skills/tdd/SKILL.md",
+    "files": [
+      "SKILL.md",
+      "deep-modules.md",
+      "interface-design.md",
+      "mocking.md",
+      "refactoring.md",
+      "tests.md"
+    ]
   }
 ]
